@@ -11,7 +11,7 @@ android {
     buildToolsVersion = "30.0.3"
 
     defaultConfig {
-        applicationId = "dev.spikeysanju.expensetracker"
+        applicationId = "dev.Expensetracker.expensetracker"
         minSdk = 21
         targetSdk = 30
         versionCode = 1
